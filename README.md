@@ -56,8 +56,7 @@
 ---
 
 ### 🐍 Contribution Snake
-### 🐍 Contribution Snake
-![GitHub Contribution Snake](https://raw.githubusercontent.com/dharmub376/dharmub376/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake]((https://github.com/dharmub376/dharmub376/blob/output/github-contribution-grid-snake.svg))
 
 
 ---
