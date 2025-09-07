@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Dharmu+Bhusal;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Dharmu;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
